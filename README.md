@@ -4,5 +4,4 @@
 - tutorials
 - resources
 
-:-)
-MIT License
+
