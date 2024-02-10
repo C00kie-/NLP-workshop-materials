@@ -1,4 +1,4 @@
-# Introduction to NLP workshop material
+# Introduction to NLP workshop materials
 
 - code (python, jupyter notebooks)
 - tutorials
